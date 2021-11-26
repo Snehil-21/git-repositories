@@ -15,6 +15,6 @@
 4.  Make sure you have python and pip installed on your local machine.
 5.  Run the command: **pip install -r requirements.txt** to install the required libraries.
     **_OR_**
-6.  Install **requests** library using **_pip install requests_**and **BeautifulSoup** library using **_pip install beautifulsoup4_**
+6.  Install **requests** library using **pip install requests** and **BeautifulSoup** library using **_pip install beautifulsoup4_**
 7.  Run the command: **_python scraper.py_**
 8.  Enter the username when prompted and press **Enter** or **Return** key.
